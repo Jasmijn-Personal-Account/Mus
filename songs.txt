@@ -1,0 +1,10 @@
+name: "How It's Done",
+artist: "How It's Done",
+image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path: "Song\How It_s Done.mp3"
+
+name: "NU DELHI",
+artist: "NU DELHI",
+image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path: "Song\NU DELHI.mp3"
+
