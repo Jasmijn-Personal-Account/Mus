@@ -19,6 +19,15 @@ let updateTimer;
 // Create new audio element
 let curr_track = document.createElement('audio');
 
+let track_list = []
+const fs = require('fs');
+
+fs.readFile('songs.txt', (err, data) => {
+  if (err) throw err;
+
+  console.log(data.toString());
+});
+
 // Define the tracks that have to be played
 // let track_list = [
 //   {

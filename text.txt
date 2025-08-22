@@ -3,3 +3,4 @@ Ideeën:
 - Als geen foto van album, gebruik willekeurige foto
 - stats page met luistertijd
 - Stop geluid knop op toetsenbord verandert playbutton
+- liedjes bijvoegen vanuit files

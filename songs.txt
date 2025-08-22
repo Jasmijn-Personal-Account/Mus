@@ -1,10 +1,35 @@
+name: "De S van Suriname",
+artist: "De S van Suriname",
+image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path: "Song\De S van Suriname.mp3"
+
+name: "Die Falle_Zu viel ist nie genug",
+artist: "Die Falle_Zu viel ist nie genug",
+image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path: "Song\Die Falle_Zu viel ist nie genug.mp3"
+
 name: "How It's Done",
 artist: "How It's Done",
 image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
 path: "Song\How It_s Done.mp3"
 
+name: "I_ll Be There",
+artist: "I_ll Be There",
+image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path: "Song\I_ll Be There.mp3"
+
 name: "NU DELHI",
 artist: "NU DELHI",
 image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
 path: "Song\NU DELHI.mp3"
+
+name: "poor little soul",
+artist: "poor little soul",
+image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path: "Song\poor little soul.mp3"
+
+name: "What It Sounds Like",
+artist: "What It Sounds Like",
+image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+path: "Song\What It Sounds Like.mp3"
 
