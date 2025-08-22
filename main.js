@@ -27,6 +27,7 @@ fs.readFile('songs.txt', (err, data) => {
 
   console.log(data.toString());
 });
+console.log("Hello World")
 
 // Define the tracks that have to be played
 // let track_list = [
