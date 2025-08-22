@@ -31,7 +31,7 @@ let track_list = [
     name: "Ali Baba",
     artist: "K3",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "Song\\Ali Baba.mp3"
+    path: "Ali Baba.mp3"
   },
   {
     name: "Enthusiast",
